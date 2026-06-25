@@ -84,7 +84,7 @@ Transfer successful. Amount transferred: 1000
 
 ## Author
 
-**Suriya S**  
+**Bala Suriya S**  
 B.E. Electronics and Communication Engineering (ECE)
 
 Cognizant Digital Nurture Training - Week 1 Hands-on Practice
