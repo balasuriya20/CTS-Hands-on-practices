@@ -1,90 +1,101 @@
-# CTS Hands-on Practices - Week 1
+# Cognizant Digital Nurture 5.0 – Hands-on Practice
 
-This repository contains the hands-on exercises completed during Week 1 of Cognizant Digital Nurture Training.
+## 📖 About
 
-## Topics Covered
+This repository contains my hands-on practice and assignments completed as part of the **Cognizant Digital Nurture 5.0 (Java Full Stack Engineer)** program.
 
-- Design Principles
-- Design Patterns
-- Data Structures and Algorithms (DSA)
-- JUnit 5
-- Mockito
-- Logging Frameworks
-- PL/SQL
+It serves as a collection of practical implementations that helped me strengthen my understanding of Java, backend development, software engineering principles, and industry best practices through continuous learning and coding.
 
-## Programs Included
+---
 
-### Design Patterns
-- Singleton Pattern
-- Factory Pattern
+## 🎯 Objectives
 
-### DSA
-- Financial Forecasting using Recursion
-- Linear Search
-- Binary Search
+- Enhance Java programming skills
+- Gain practical experience with enterprise technologies
+- Apply software engineering concepts through hands-on exercises
+- Improve problem-solving and debugging abilities
+- Write clean, maintainable, and efficient code
+- Follow industry-standard development practices
 
-### JUnit 5 & Mockito
-- Assertions
-- AAA Pattern
-- Unit Testing
-- Mocking
-- Verification
+---
 
-### Logging Framework
-- Logging Example using Java
-
-### PL/SQL
-- Loan Reminder Procedure
-- Fund Transfer Procedure
-
-## Sample Outputs
-
-### Financial Forecast
-```text
-Future Value after 5 years = 16105.1
-```
-
-### Singleton Pattern
-```text
-true
-```
-
-### Factory Pattern
-```text
-Driving Car
-Riding Bike
-```
-
-### Search Operations
-```text
-Product Found
-Product ID : 101
-Product Name : Laptop
-Category : Electronics
-```
-
-### JUnit Tests
-```text
-Test Passed
-```
-
-### PL/SQL Fund Transfer
-```text
-Transfer successful. Amount transferred: 1000
-```
-
-## Technologies Used
+## 🛠️ Technologies & Tools
 
 - Java
-- JUnit 5
-- Mockito
-- PL/SQL
+- Spring Framework
+- Spring Boot
+- Maven
+- SQL
+- REST APIs
 - Git & GitHub
-- Eclipse IDE
+- JUnit
+- Mockito
+- SonarQube
+- Eclipse / IntelliJ IDEA
 
-## Author
+---
 
-**Bala Suriya S**  
-B.E. Electronics and Communication Engineering (ECE)
+## 📂 Repository Structure
 
-Cognizant Digital Nurture Training - Week 1 Hands-on Practice
+The repository is organized into multiple hands-on exercises and practice programs, each focusing on different concepts covered during the training.
+
+```
+📦 Cognizant-Digital-Nurture-HandsOn
+ ┣ 📂 Week-1
+ ┣ 📂 Week-2
+ ┣ 📂 Week-3
+ ┣ 📂 Week-4
+ ┗ 📜 README.md
+```
+
+Each folder contains source code, exercises, and implementations related to the topics covered during the learning journey.
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+2. Open the project in Eclipse or IntelliJ IDEA.
+3. Install the required dependencies using Maven.
+4. Run the individual projects or exercises.
+5. Explore the code and practice the implementations.
+
+---
+
+## 📚 Learning Outcomes
+
+Through these hands-on exercises, I have:
+
+- Improved my core Java programming skills.
+- Gained experience with Spring and Spring Boot.
+- Learned to develop RESTful applications.
+- Practiced writing unit tests using JUnit and Mockito.
+- Enhanced debugging and problem-solving skills.
+- Strengthened my understanding of software development best practices.
+- Improved version control using Git and GitHub.
+
+---
+
+## 🌱 Learning Journey
+
+This repository reflects my continuous learning throughout the **Cognizant Digital Nurture 5.0** program. It showcases my progress, practical implementations, and commitment to improving my software development skills.
+
+---
+
+## 👨‍💻 Author
+
+**Bala Suriya S**
+
+🎓 Final Year – Electronics and Communication Engineering
+
+💻 Aspiring Java Full Stack Developer
+
+🔗 GitHub: https://github.com/balasuriya20
+
+---
+
+## ⭐ Support
+
+If you found this repository helpful, feel free to **star ⭐ the repository** and explore my other projects on GitHub.
+
+Happy Coding! 🚀
