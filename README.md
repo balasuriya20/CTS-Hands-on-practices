@@ -1,121 +1,221 @@
-# Cognizant Digital Nurture 5.0 – Hands-on Practice
+# Cognizant Digital Nurture 5.0 – Hands-on Practice (Completed 6 Weeks)
 
 ## 📖 About
 
-This repository contains my hands-on practice and assignments completed as part of the **Cognizant Digital Nurture 5.0 (Java Full Stack Engineer)** program.
+This repository contains my hands-on practice and assignments completed during the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer** program.
 
-It serves as a collection of practical implementations that helped me strengthen my understanding of Java, backend development, frontend development, software engineering principles, testing, and industry best practices through continuous learning and coding.
-
----
-
-## 🎯 Objectives
-
-* Enhance Java programming skills
-* Build enterprise applications using Spring Boot
-* Learn frontend development with Angular
-* Apply software engineering concepts through hands-on exercises
-* Improve problem-solving and debugging abilities
-* Write clean, maintainable, and efficient code
-* Follow industry-standard development practices
+Over six weeks, I worked on a variety of practical exercises covering Java, SQL, Spring Boot, testing frameworks, web technologies, Angular basics, software engineering concepts, and development tools. The repository demonstrates my continuous learning journey and practical implementation of industry-relevant technologies.
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🎯 Objectives
 
-* Java
+* Strengthen Core Java programming skills
+* Understand Object-Oriented Programming concepts
+* Build RESTful applications using Spring Boot
+* Practice database programming with SQL
+* Learn software testing using JUnit and Mockito
+* Understand version control using Git and GitHub
+* Gain exposure to frontend development with Angular
+* Improve debugging, problem-solving, and coding practices
+* Follow clean coding and industry-standard development practices
+
+---
+
+# 📚 Topics Covered
+
+## Week 1 – Java Fundamentals
+
+* Java Basics
+* Variables & Data Types
+* Operators
+* Control Statements
+* Arrays
+* Methods
+* Object-Oriented Programming
+* Exception Handling
+* Collections Framework
+* Java 8 Features (Lambda, Stream API)
+* File Handling
+
+---
+
+## Week 2 – Database Programming
+
+* SQL Basics
+* DDL Commands
+* DML Commands
+* DCL & TCL
+* Joins
+* Aggregate Functions
+* Group By & Having
+* Subqueries
+* Views
+* Indexes
+* Stored Procedures
+* Functions
+* Triggers
+
+---
+
+## Week 3 – Spring Boot Development
+
 * Spring Framework
 * Spring Boot
-* Angular
-* TypeScript
-* HTML
-* CSS
-* Maven
-* SQL
+* Dependency Injection
+* Spring Beans
 * REST APIs
-* Git & GitHub
-* JUnit
-* Mockito
-* SonarQube
-* Eclipse IDE
-* IntelliJ IDEA
-* Visual Studio Code
+* CRUD Operations
+* Spring Data JPA
+* Hibernate
+* H2 Database
+* MySQL Integration
+* Maven
+* Lombok
 
 ---
 
-## 📂 Repository Structure
+## Week 4 – Testing & Software Engineering
 
-The repository is organized into weekly hands-on exercises and practice programs covering various technologies and concepts learned throughout the Digital Nurture program.
+* JUnit 5
+* Mockito
+* Unit Testing
+* Mocking & Stubbing
+* Logging with SLF4J
+* SonarQube Basics
+* Agile Methodology
+* Clean Code Practices
+
+---
+
+## Week 5 – Version Control & DevOps Basics
+
+* Version Control Concepts
+* Git Fundamentals
+* Git Repository
+* Git Commands
+* Branching
+* Merging
+* GitHub
+* Continuous Integration (CI)
+* Continuous Delivery (CD)
+* Build Automation using Maven
+
+---
+
+## Week 6 – Frontend Fundamentals & Angular Basics
+
+* HTML
+* CSS
+* JavaScript Basics
+* DOM Manipulation
+* Events
+* TypeScript Fundamentals
+* Angular CLI
+* Angular Project Structure
+* Components
+* Templates
+* Data Binding
+* Directives
+* Services
+* Routing Basics
+
+---
+
+# 🛠️ Technologies & Tools
+
+### Programming Languages
+
+* Java
+* SQL
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+
+### Frameworks
+
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* Angular
+
+### Testing
+
+* JUnit 5
+* Mockito
+
+### Database
+
+* MySQL
+* H2 Database
+
+### Build Tools
+
+* Maven
+
+### Version Control
+
+* Git
+* GitHub
+
+### Development Tools
+
+* IntelliJ IDEA
+* Eclipse IDE
+* Visual Studio Code
+* Postman
+
+### Logging
+
+* SLF4J
+
+---
+
+# 📂 Repository Structure
 
 ```text
 📦 Cognizant-Digital-Nurture-HandsOn
- ┣ 📂 Week-1
- ┣ 📂 Week-2
- ┣ 📂 Week-3
- ┣ 📂 Week-4
- ┣ 📂 Week-5
- ┗ 📜 README.md
+│
+├── Week-1-Java
+├── Week-2-SQL
+├── Week-3-SpringBoot
+├── Week-4-Testing
+├── Week-5-Git
+├── Week-6-Angular
+│
+└── README.md
 ```
 
-Each folder contains source code, exercises, assignments, and implementations related to the topics covered during that week's learning.
+---
+
+# 🚀 Key Learning Outcomes
+
+* Developed a strong foundation in Java programming.
+* Implemented Object-Oriented Programming principles effectively.
+* Built RESTful APIs using Spring Boot.
+* Performed CRUD operations using Spring Data JPA.
+* Worked with relational databases using SQL.
+* Created and executed unit tests using JUnit 5 and Mockito.
+* Learned logging and debugging techniques.
+* Practiced Git workflows and version control using GitHub.
+* Gained an understanding of frontend development and Angular fundamentals.
+* Improved code quality by following clean coding and software engineering best practices.
 
 ---
 
-## 🚀 Getting Started
+# 🎓 Program
 
-1. Clone the repository.
-2. Open the project in Eclipse, IntelliJ IDEA, or Visual Studio Code.
-3. Install the required dependencies using Maven or npm (where applicable).
-4. Run the individual projects or exercises.
-5. Explore the implementations and practice the concepts.
+**Cognizant Digital Nurture 5.0**
+
+**Role:** Java Full Stack Engineer Trainee
 
 ---
 
-## 📚 Learning Outcomes (Completed Through Week 5)
+# 📌 Note
 
-Through these hands-on exercises, I have:
-
-* Strengthened my Core Java programming skills.
-* Learned Object-Oriented Programming concepts in depth.
-* Built backend applications using Spring and Spring Boot.
-* Developed RESTful APIs.
-* Worked with SQL and database integration.
-* Practiced unit testing using JUnit and Mockito.
-* Learned software quality practices using SonarQube.
-* Improved debugging and problem-solving skills.
-* Gained hands-on experience with Git and GitHub.
-* Started frontend development using Angular and TypeScript.
-* Enhanced my understanding of modern full-stack application development.
+This repository is intended for learning and practice purposes. It showcases my progress throughout the Cognizant Digital Nurture 5.0 program by implementing concepts through hands-on exercises and practical assignments.
 
 ---
 
-## ✅ Current Progress
-
-**Completed:** Week 5
-
-The repository currently contains all hands-on exercises and assignments completed up to **Week 5** of the Cognizant Digital Nurture 5.0 Java Full Stack Engineer program. New implementations and projects will continue to be added as I progress through the remaining modules.
-
----
-
-## 🌱 Learning Journey
-
-This repository reflects my continuous learning throughout the **Cognizant Digital Nurture 5.0** program. It showcases my practical implementations, coding progress, and commitment to becoming a proficient **Java Full Stack Developer**.
-
----
-
-## 👨‍💻 Author
-
-**Bala Suriya S**
-
-🎓 Final Year – Electronics and Communication Engineering
-
-💻 Aspiring Java Full Stack Developer
-
-🔗 GitHub: https://github.com/balasuriya20
-
----
-
-## ⭐ Support
-
-If you found this repository helpful, feel free to **star ⭐ the repository** and explore my other projects on GitHub.
-
-Thank you for visiting, and Happy Coding! 🚀
+## ⭐ If you find this repository useful, consider giving it a Star.
